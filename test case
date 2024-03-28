@@ -1,0 +1,24 @@
+Test case 1 (Giải phương trình bậc nhất):
+
+Lựa chọn: 1
+Nhập vào biến a = 2
+Nhập vào biến b = 4
+Kết quả:
+Giải phương trình bậc nhất 2x + 4 = 0
+Phương trình có nghiệm x = -2.000
+
+Test case 2 (Giải phương trình bậc hai):
+
+Lựa chọn: 2
+Nhập vào số a = 1
+Nhập vào số b = -3
+Nhập vào số c = 2
+Kết quả:
+Giải phương trình bậc hai 1x^2 + -3x + 2 = 0
+Phương trình có 2 nghiệm riêng biệt, x1 = 2,000, x2 = 1,000
+
+Test case 3 (Kết thúc chương trình):
+
+Lựa chọn: 3
+Kết quả:
+Bạn đã thoát chương trình.
